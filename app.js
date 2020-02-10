@@ -12,12 +12,6 @@ function clearInput() {
     inp.value = "";
 }
 
-
-//function clearTable() {
-
-
-//}
-
 function addTable() {
     table.innerHTML = '';    
     //if the user's input (key) is already in the object, set its value to +1.
