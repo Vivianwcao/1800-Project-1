@@ -12,6 +12,7 @@ function clearInput() {
     inp.value = "";
 }
 
+
 //function clearTable() {
 
 
