@@ -1,0 +1,31 @@
+GitBash
+commands:
+
+1.find the folder/file:
+
+cd .. //move out out of current directoty/folder by 1 level
+
+cd//move to your user folder (main)
+cd folder_name // move into that directory
+ls -l//list the files in folders. Copy the exact folder name including ''
+dir//list the names of the folders/files of your current directory
+
+
+git init //turns the folder to a git repolsitory
+
+2.Git add (add everytime there's change before commiting)
+git add index.html app.js//can add multiple files at once
+git status//check status of git for all the files
+
+3. git commit
+git commit -m "" // insert commit message
+
+git log // check commit history
+
+4.Git Push 
+git remote add origin https://github.com/Vivianwcao/A00822591gitlab.git(run only once for each repository created)
+
+git push -u origin master (only once, for loging into the GitHub account)
+
+git push
+
